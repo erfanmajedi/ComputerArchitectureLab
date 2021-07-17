@@ -1,0 +1,28 @@
+Command line:
+   tff_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  3484
+
+Wed Apr 07 15:36:47 2021
+
+
+ Elaboration Time: 0.65625 sec
+
+ Current Memory Usage: 5670.6 Meg
+
+ Total Signals          : 11
+ Total Nets             : 6
+ Total Signal Drivers   : 6
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 5
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 367
+
+ Total Simulation Time: 0.859375 sec
+
+ Current Memory Usage: 5670.57 Meg
+
+Wed Apr 07 15:37:41 2021
+

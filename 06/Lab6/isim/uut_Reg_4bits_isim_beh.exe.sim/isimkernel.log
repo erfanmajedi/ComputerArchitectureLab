@@ -1,0 +1,28 @@
+Command line:
+   uut_Reg_4bits_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  3691
+
+Fri May 07 16:03:49 2021
+
+
+ Elaboration Time: 0.734375 sec
+
+ Current Memory Usage: 5827.96 Meg
+
+ Total Signals          : 14
+ Total Nets             : 19
+ Total Signal Drivers   : 7
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 380
+
+ Total Simulation Time: 1.65625 sec
+
+ Current Memory Usage: 4726.92 Meg
+
+Fri May 07 16:06:41 2021
+

@@ -1,0 +1,4 @@
+vhdl isim_temp "seq_counter.vhd"
+vhdl isim_temp "dec4_16.vhd"
+vhdl isim_temp "dec3_8.vhd"
+vhdl isim_temp "control_unit.vhd"

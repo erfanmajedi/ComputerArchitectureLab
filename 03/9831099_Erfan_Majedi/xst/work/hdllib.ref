@@ -1,0 +1,4 @@
+AR final_sequence_detector behavioral "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/03/9831099_Erfan_Majedi/final_sequence_detector.vhd" sub00/vhpl03 1617792256
+EN final_sequence_detector NULL "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/03/9831099_Erfan_Majedi/final_sequence_detector.vhd" sub00/vhpl02 1617792255
+EN dff NULL C:/Users/estinaf/Desktop/Lab3/CA_3/dff.vhd sub00/vhpl00 1617729264
+AR dff behavioral C:/Users/estinaf/Desktop/Lab3/CA_3/dff.vhd sub00/vhpl01 1617729265

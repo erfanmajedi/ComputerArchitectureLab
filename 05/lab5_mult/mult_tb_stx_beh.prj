@@ -1,0 +1,4 @@
+vhdl isim_temp "HA.vhd"
+vhdl isim_temp "FA.vhd"
+vhdl isim_temp "mult4bit.vhd"
+vhdl isim_temp "mult_tb.vhd"

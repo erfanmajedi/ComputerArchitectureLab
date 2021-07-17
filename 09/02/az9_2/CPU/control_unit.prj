@@ -1,0 +1,4 @@
+vhdl work "seq_counter.vhd"
+vhdl work "dec4_16.vhd"
+vhdl work "dec3_8.vhd"
+vhdl work "control_unit.vhd"

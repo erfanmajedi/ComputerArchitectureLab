@@ -1,0 +1,3 @@
+vhdl work "CAM.vhd"
+vhdl work "RAM_dual.vhd"
+vhdl work "RAM.vhd"

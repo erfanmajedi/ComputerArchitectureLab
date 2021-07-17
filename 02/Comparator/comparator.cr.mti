@@ -1,0 +1,27 @@
+{E:/Ev/university/semester 4/CA lib/az2/Comparator/comparator4bit.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {E:/Ev/university/semester 4/CA lib/az2/Comparator/comparator4bit.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity comparator4bit
+-- Compiling architecture structure of comparator4bit
+
+} {} {}} {E:/Ev/university/semester 4/CA lib/az2/Comparator/com4_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {E:/Ev/university/semester 4/CA lib/az2/Comparator/com4_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity com4_tb
+-- Compiling architecture tb of com4_tb
+
+} {} {}} {E:/Ev/university/semester 4/CA lib/az2/Comparator/comparator1bit.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {E:/Ev/university/semester 4/CA lib/az2/Comparator/comparator1bit.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity comparator
+-- Compiling architecture gatelevel of comparator
+
+} {} {}}

@@ -1,0 +1,3 @@
+vhdl isim_temp "tff.vhd"
+vhdl isim_temp "ripple_counter.vhd"
+vhdl isim_temp "ripple_counter_test.vhd"

@@ -1,0 +1,24 @@
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.syr" 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa7a100t-csg324-2I "Carry_Look_Ahead.ngc" Carry_Look_Ahead.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Carry_Look_Ahead_map.ncd Carry_Look_Ahead.ngd Carry_Look_Ahead.pcf 
+par -w -intstyle ise -ol high -mt off Carry_Look_Ahead_map.ncd Carry_Look_Ahead.ncd Carry_Look_Ahead.pcf 
+trce -intstyle ise -v 3 -s 2I -n 3 -fastpaths -xml Carry_Look_Ahead.twx Carry_Look_Ahead.ncd -o Carry_Look_Ahead.twr Carry_Look_Ahead.pcf 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.syr" 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa7a100t-csg324-2I "Carry_Look_Ahead.ngc" Carry_Look_Ahead.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Carry_Look_Ahead_map.ncd Carry_Look_Ahead.ngd Carry_Look_Ahead.pcf 
+par -w -intstyle ise -ol high -mt off Carry_Look_Ahead_map.ncd Carry_Look_Ahead.ncd Carry_Look_Ahead.pcf 
+trce -intstyle ise -v 3 -s 2I -n 3 -fastpaths -xml Carry_Look_Ahead.twx Carry_Look_Ahead.ncd -o Carry_Look_Ahead.twr Carry_Look_Ahead.pcf 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.syr" 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.syr" 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa7a100t-csg324-2I "Carry_Look_Ahead.ngc" Carry_Look_Ahead.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Carry_Look_Ahead_map.ncd Carry_Look_Ahead.ngd Carry_Look_Ahead.pcf 
+par -w -intstyle ise -ol high -mt off Carry_Look_Ahead_map.ncd Carry_Look_Ahead.ncd Carry_Look_Ahead.pcf 
+trce -intstyle ise -v 3 -s 2I -n 3 -fastpaths -xml Carry_Look_Ahead.twx Carry_Look_Ahead.ncd -o Carry_Look_Ahead.twr Carry_Look_Ahead.pcf 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Carry_Look_Ahead.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa7a100t-csg324-2I "Carry_Look_Ahead.ngc" Carry_Look_Ahead.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Carry_Look_Ahead_map.ncd Carry_Look_Ahead.ngd Carry_Look_Ahead.pcf 
+par -w -intstyle ise -ol high -mt off Carry_Look_Ahead_map.ncd Carry_Look_Ahead.ncd Carry_Look_Ahead.pcf 
+trce -intstyle ise -v 3 -s 2I -n 3 -fastpaths -xml Carry_Look_Ahead.twx Carry_Look_Ahead.ncd -o Carry_Look_Ahead.twr Carry_Look_Ahead.pcf 

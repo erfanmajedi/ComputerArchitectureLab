@@ -1,0 +1,4 @@
+vhdl work "FA.vhd"
+vhdl work "rippleAdder4bit.vhd"
+vhdl work "arrayMult4bit.vhd"
+vhdl work "arrayMult_tb.vhd"

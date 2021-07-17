@@ -1,0 +1,222 @@
+m255
+K3
+13
+cModel Technology
+dC:\modeltech_10.1c\examples
+T_opt
+VNHWHJQzm1K_9;d80EaJhK3
+04 13 8 work full_adder_tb behavior 1
+=1-2c56dcec9ac6-60467e67-204-35e4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.1c;51
+Eand_gate
+Z0 w1615232232
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\estinaf\Desktop\Memari Lab
+Z4 8C:\Users\estinaf\Desktop\Memari Lab\and_gate.vhd
+Z5 FC:\Users\estinaf\Desktop\Memari Lab\and_gate.vhd
+l0
+L4
+VCmXFDa1B6J=:FN<gVSfNo3
+Z6 OE;C;10.1c;51
+32
+Z7 !s108 1615232238.349000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\estinaf\Desktop\Memari Lab\and_gate.vhd|
+Z9 !s107 C:\Users\estinaf\Desktop\Memari Lab\and_gate.vhd|
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1
+!s100 X6FSf>Z2[1f2T5XS<;4FY3
+!i10b 1
+Abehavioral
+R1
+R2
+DEx4 work 8 and_gate 0 22 CmXFDa1B6J=:FN<gVSfNo3
+l11
+L10
+V>4F<Q76]Yb=C_HR9CnF>43
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 XiXi_ZkQLWT_FUN=KzgFn3
+!i10b 1
+Efull_adder
+Z12 w1615232203
+R1
+R2
+R3
+Z13 8C:\Users\estinaf\Desktop\Memari Lab\full_adder.vhd
+Z14 FC:\Users\estinaf\Desktop\Memari Lab\full_adder.vhd
+l0
+L5
+VK[7[AX;cGcSG^V@N[dDQ80
+R6
+32
+Z15 !s108 1615232238.450000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\estinaf\Desktop\Memari Lab\full_adder.vhd|
+Z17 !s107 C:\Users\estinaf\Desktop\Memari Lab\full_adder.vhd|
+R10
+R11
+!s100 mAR:3ZWgKY8zoX_WKU^R;1
+!i10b 1
+Astructure
+R1
+R2
+DEx4 work 10 full_adder 0 22 K[7[AX;cGcSG^V@N[dDQ80
+l25
+L11
+VS]<^JAWg:0I@`ID26`Z`a0
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 W2zR3OC35bX7S4]g6WFX91
+!i10b 1
+Efull_adder_tb
+Z18 w1615232224
+R1
+R2
+R3
+Z19 8C:\Users\estinaf\Desktop\Memari Lab\full_adder_TB.vhd
+Z20 FC:\Users\estinaf\Desktop\Memari Lab\full_adder_TB.vhd
+l0
+L8
+VRfKADXhf^_TY_D:YCfC2J3
+R6
+32
+Z21 !s108 1615232238.542000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\estinaf\Desktop\Memari Lab\full_adder_TB.vhd|
+Z23 !s107 C:\Users\estinaf\Desktop\Memari Lab\full_adder_TB.vhd|
+R10
+R11
+!s100 ;LO614iD6@c@<bif@j5Y63
+!i10b 1
+Abehavior
+R1
+R2
+DEx4 work 13 full_adder_tb 0 22 RfKADXhf^_TY_D:YCfC2J3
+l36
+L11
+Vf;2gengLUz212>KFbPSD71
+R6
+32
+R21
+R22
+R23
+R10
+R11
+!s100 LGO=fj3JBmAONYggeU0Nz0
+!i10b 1
+Ehalf_adder
+Z24 w1615232142
+R1
+R2
+R3
+Z25 8C:\Users\estinaf\Desktop\Memari Lab\half-adder.vhd
+Z26 FC:\Users\estinaf\Desktop\Memari Lab\half-adder.vhd
+l0
+L4
+VOoElzc=Hlm@LRO6a=@nBz0
+R6
+32
+Z27 !s108 1615232238.640000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\estinaf\Desktop\Memari Lab\half-adder.vhd|
+Z29 !s107 C:\Users\estinaf\Desktop\Memari Lab\half-adder.vhd|
+R10
+R11
+!s100 _7HmGF1QJC[jieRK[:DdJ0
+!i10b 1
+Astructure
+R1
+R2
+DEx4 work 10 half_adder 0 22 OoElzc=Hlm@LRO6a=@nBz0
+l23
+L10
+Vg]1ARec4OGmNR[YAB4kZS1
+R6
+32
+R27
+R28
+R29
+R10
+R11
+!s100 2N_6fAJjO4i`cG3nk^CX?3
+!i10b 1
+Eor_gate
+Z30 w1615232193
+R1
+R2
+R3
+Z31 8C:\Users\estinaf\Desktop\Memari Lab\or_gate.vhd
+Z32 FC:\Users\estinaf\Desktop\Memari Lab\or_gate.vhd
+l0
+L5
+V<T`=oLAgMm3Bf;0cT0KAb0
+R6
+32
+Z33 !s108 1615232238.732000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\estinaf\Desktop\Memari Lab\or_gate.vhd|
+Z35 !s107 C:\Users\estinaf\Desktop\Memari Lab\or_gate.vhd|
+R10
+R11
+!s100 6am?39?6DWVn5gZFUTZ4<1
+!i10b 1
+Agatelevel
+R1
+R2
+DEx4 work 7 or_gate 0 22 <T`=oLAgMm3Bf;0cT0KAb0
+l12
+L11
+VmGogPT>NVSDHggWF5<=T40
+R6
+32
+R33
+R34
+R35
+R10
+R11
+!s100 R?jok:d8NI5hkamNcA2I80
+!i10b 1
+Exor_gate
+Z36 w1615232178
+R1
+R2
+R3
+Z37 8C:\Users\estinaf\Desktop\Memari Lab\xor_gate.vhd
+Z38 FC:\Users\estinaf\Desktop\Memari Lab\xor_gate.vhd
+l0
+L4
+VOgNnc?eJeTi7QajK=bn1B2
+R6
+32
+Z39 !s108 1615232238.823000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\estinaf\Desktop\Memari Lab\xor_gate.vhd|
+Z41 !s107 C:\Users\estinaf\Desktop\Memari Lab\xor_gate.vhd|
+R10
+R11
+!s100 >jl6JIn^_=PBT@Z@c_XlN1
+!i10b 1
+Agatelevel
+R1
+R2
+DEx4 work 8 xor_gate 0 22 OgNnc?eJeTi7QajK=bn1B2
+l11
+L10
+V<U7QVe<PdV@gkaSgXf_gU1
+R6
+32
+R39
+R40
+R41
+R10
+R11
+!s100 :P4EYcXLDO5@YfB;@X@Q_3
+!i10b 1

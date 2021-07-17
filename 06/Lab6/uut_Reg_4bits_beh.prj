@@ -1,0 +1,2 @@
+vhdl work "Reg_4bits.vhd"
+vhdl work "reg_4bit_tb.vhd"

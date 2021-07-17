@@ -1,0 +1,2 @@
+vhdl work "final_sequence_detector.vhd"
+vhdl work "final_sequence_test.vhd"

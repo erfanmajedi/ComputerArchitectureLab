@@ -1,0 +1,230 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech_10.1c\examples
+T_opt
+VNHWHJQzm1K_9;d80EaJhK3
+Z1 04 13 8 work full_adder_tb behavior 1
+=1-2c56dcec9ac6-60467e67-204-35e4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OE;O;10.1c;51
+Z3 dC:\modeltech_10.1c\examples
+T_opt1
+VT9`iaGUTU00gl6B5AhkN22
+R1
+=1-2c56dcec9ac6-604682d4-65-1270
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt1
+R2
+Eand_gate
+Z4 w1615232232
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 dC:\Users\estinaf\Desktop\Memari Lab
+Z8 8C:\Users\estinaf\Desktop\Memari Lab\and_gate.vhd
+Z9 FC:\Users\estinaf\Desktop\Memari Lab\and_gate.vhd
+l0
+L4
+VCmXFDa1B6J=:FN<gVSfNo3
+Z10 OE;C;10.1c;51
+32
+Z11 !s108 1615232238.349000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\estinaf\Desktop\Memari Lab\and_gate.vhd|
+Z13 !s107 C:\Users\estinaf\Desktop\Memari Lab\and_gate.vhd|
+Z14 o-work work -2002 -explicit
+Z15 tExplicit 1
+!s100 X6FSf>Z2[1f2T5XS<;4FY3
+!i10b 1
+Abehavioral
+R5
+R6
+DEx4 work 8 and_gate 0 22 CmXFDa1B6J=:FN<gVSfNo3
+l11
+L10
+V>4F<Q76]Yb=C_HR9CnF>43
+R10
+32
+R11
+R12
+R13
+R14
+R15
+!s100 XiXi_ZkQLWT_FUN=KzgFn3
+!i10b 1
+Efull_adder
+Z16 w1615232203
+R5
+R6
+R7
+Z17 8C:\Users\estinaf\Desktop\Memari Lab\full_adder.vhd
+Z18 FC:\Users\estinaf\Desktop\Memari Lab\full_adder.vhd
+l0
+L5
+VK[7[AX;cGcSG^V@N[dDQ80
+R10
+32
+Z19 !s108 1615232238.450000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\estinaf\Desktop\Memari Lab\full_adder.vhd|
+Z21 !s107 C:\Users\estinaf\Desktop\Memari Lab\full_adder.vhd|
+R14
+R15
+!s100 mAR:3ZWgKY8zoX_WKU^R;1
+!i10b 1
+Astructure
+R5
+R6
+DEx4 work 10 full_adder 0 22 K[7[AX;cGcSG^V@N[dDQ80
+l25
+L11
+VS]<^JAWg:0I@`ID26`Z`a0
+R10
+32
+R19
+R20
+R21
+R14
+R15
+!s100 W2zR3OC35bX7S4]g6WFX91
+!i10b 1
+Efull_adder_tb
+Z22 w1615232224
+R5
+R6
+R7
+Z23 8C:\Users\estinaf\Desktop\Memari Lab\full_adder_TB.vhd
+Z24 FC:\Users\estinaf\Desktop\Memari Lab\full_adder_TB.vhd
+l0
+L8
+VRfKADXhf^_TY_D:YCfC2J3
+R10
+32
+Z25 !s108 1615232238.542000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\estinaf\Desktop\Memari Lab\full_adder_TB.vhd|
+Z27 !s107 C:\Users\estinaf\Desktop\Memari Lab\full_adder_TB.vhd|
+R14
+R15
+!s100 ;LO614iD6@c@<bif@j5Y63
+!i10b 1
+Abehavior
+R5
+R6
+DEx4 work 13 full_adder_tb 0 22 RfKADXhf^_TY_D:YCfC2J3
+l36
+L11
+Vf;2gengLUz212>KFbPSD71
+R10
+32
+R25
+R26
+R27
+R14
+R15
+!s100 LGO=fj3JBmAONYggeU0Nz0
+!i10b 1
+Ehalf_adder
+Z28 w1615232142
+R5
+R6
+R7
+Z29 8C:\Users\estinaf\Desktop\Memari Lab\half-adder.vhd
+Z30 FC:\Users\estinaf\Desktop\Memari Lab\half-adder.vhd
+l0
+L4
+VOoElzc=Hlm@LRO6a=@nBz0
+R10
+32
+Z31 !s108 1615232238.640000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\estinaf\Desktop\Memari Lab\half-adder.vhd|
+Z33 !s107 C:\Users\estinaf\Desktop\Memari Lab\half-adder.vhd|
+R14
+R15
+!s100 _7HmGF1QJC[jieRK[:DdJ0
+!i10b 1
+Astructure
+R5
+R6
+DEx4 work 10 half_adder 0 22 OoElzc=Hlm@LRO6a=@nBz0
+l23
+L10
+Vg]1ARec4OGmNR[YAB4kZS1
+R10
+32
+R31
+R32
+R33
+R14
+R15
+!s100 2N_6fAJjO4i`cG3nk^CX?3
+!i10b 1
+Eor_gate
+Z34 w1615232193
+R5
+R6
+R7
+Z35 8C:\Users\estinaf\Desktop\Memari Lab\or_gate.vhd
+Z36 FC:\Users\estinaf\Desktop\Memari Lab\or_gate.vhd
+l0
+L5
+V<T`=oLAgMm3Bf;0cT0KAb0
+R10
+32
+Z37 !s108 1615232238.732000
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\estinaf\Desktop\Memari Lab\or_gate.vhd|
+Z39 !s107 C:\Users\estinaf\Desktop\Memari Lab\or_gate.vhd|
+R14
+R15
+!s100 6am?39?6DWVn5gZFUTZ4<1
+!i10b 1
+Agatelevel
+R5
+R6
+DEx4 work 7 or_gate 0 22 <T`=oLAgMm3Bf;0cT0KAb0
+l12
+L11
+VmGogPT>NVSDHggWF5<=T40
+R10
+32
+R37
+R38
+R39
+R14
+R15
+!s100 R?jok:d8NI5hkamNcA2I80
+!i10b 1
+Exor_gate
+Z40 w1615232178
+R5
+R6
+R7
+Z41 8C:\Users\estinaf\Desktop\Memari Lab\xor_gate.vhd
+Z42 FC:\Users\estinaf\Desktop\Memari Lab\xor_gate.vhd
+l0
+L4
+VOgNnc?eJeTi7QajK=bn1B2
+R10
+32
+Z43 !s108 1615232238.823000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\estinaf\Desktop\Memari Lab\xor_gate.vhd|
+Z45 !s107 C:\Users\estinaf\Desktop\Memari Lab\xor_gate.vhd|
+R14
+R15
+!s100 >jl6JIn^_=PBT@Z@c_XlN1
+!i10b 1
+Agatelevel
+R5
+R6
+DEx4 work 8 xor_gate 0 22 OgNnc?eJeTi7QajK=bn1B2
+l11
+L10
+V<U7QVe<PdV@gkaSgXf_gU1
+R10
+32
+R43
+R44
+R45
+R14
+R15
+!s100 :P4EYcXLDO5@YfB;@X@Q_3
+!i10b 1

@@ -1,0 +1,2 @@
+vhdl isim_temp "moore_sequence_detector.vhd"
+vhdl isim_temp "moore_test.vhd"

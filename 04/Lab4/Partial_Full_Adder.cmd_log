@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Partial_Full_Adder.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/04/Lab4/Partial_Full_Adder.syr" 

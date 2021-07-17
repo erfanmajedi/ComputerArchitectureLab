@@ -1,0 +1,28 @@
+Command line:
+   ripple_counter_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  3488
+
+Wed Apr 07 15:38:37 2021
+
+
+ Elaboration Time: 0.734375 sec
+
+ Current Memory Usage: 5671.66 Meg
+
+ Total Signals          : 33
+ Total Nets             : 15
+ Total Signal Drivers   : 15
+ Total Blocks           : 7
+ Total Primitive Blocks : 5
+ Total Processes        : 14
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 376
+
+ Total Simulation Time: 1.40625 sec
+
+ Current Memory Usage: 5199.78 Meg
+
+Wed Apr 07 15:40:33 2021
+

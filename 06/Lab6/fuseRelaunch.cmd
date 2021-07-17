@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/06/Lab6/uut_Reg_4bits_isim_beh.exe" -prj "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/06/Lab6/uut_Reg_4bits_beh.prj" "work.uut_Reg_4bits" 

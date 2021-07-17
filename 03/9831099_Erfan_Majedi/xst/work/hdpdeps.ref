@@ -1,0 +1,13 @@
+V3 6
+FL "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/03/9831099_Erfan_Majedi/final_sequence_detector.vhd" 2021/04/06.21:15:34 P.20131013
+EN work/final_sequence_detector 1617792255 \
+      FL "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/03/9831099_Erfan_Majedi/final_sequence_detector.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/final_sequence_detector/Behavioral 1617792256 \
+      FL "C:/Users/Anformatic Golestan/Documents/Computer Architecture Lab/03/9831099_Erfan_Majedi/final_sequence_detector.vhd" \
+      EN work/final_sequence_detector 1617792255
+FL C:/Users/estinaf/Desktop/Lab3/CA_3/dff.vhd 2021/04/06.20:44:16 P.20131013
+EN work/dff 1617729264 FL C:/Users/estinaf/Desktop/Lab3/CA_3/dff.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/dff/Behavioral 1617729265 \
+      FL C:/Users/estinaf/Desktop/Lab3/CA_3/dff.vhd EN work/dff 1617729264

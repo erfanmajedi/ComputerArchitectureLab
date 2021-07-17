@@ -1,0 +1,4 @@
+work	"control_unit.vhd"
+work	"dec3_8.vhd"
+work	"dec4_16.vhd"
+work	"seq_counter.vhd"
